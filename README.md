@@ -1,6 +1,11 @@
 # Ancora-Education-Ucertify-Lab61
 # Managing Log Files
 
+> **Original Lab Source**
+> 
+> This lab was available through:
+>
+> [https://ancoraeducation.ucertify.com/app/?func=navigate_items&item_sequence=14]
 
 ## Objective of the Lab
 In this lab, you will learn to manage log files. File used: Log files Log files are files that contain messages about the system, including the kernel, services, and applications running on it. 
